@@ -12,4 +12,3 @@ Voin näytä enemmän merkia.
 
 (~~~) se yliviivaus (~~terve~~)
 
-(>) se näytä lainaus (>terve<)
