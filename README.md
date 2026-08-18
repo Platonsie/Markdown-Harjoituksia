@@ -9,3 +9,5 @@ Voin näytä enemmän merkia.
 (*) (_) ne tekevät kursivointi (*terve*) (_terve_)
 
 (**) jos käytä tupla tähti, se on lihavointi (**terve**) 
+
+(~~~) se yliviivaus (~~terve~~)
