@@ -11,3 +11,5 @@ Voin näytä enemmän merkia.
 (**) jos käytä tupla tähti, se on lihavointi (**terve**) 
 
 (~~~) se yliviivaus (~~terve~~)
+
+(>) se näytä lainaus (>terve>)
