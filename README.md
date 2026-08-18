@@ -6,4 +6,4 @@ Markdown-kielessä on erilaisia merkkejä, jotka muuttavat tekstin muotoilua. Es
 
 Voin näytä enemmän merkia. 
 
-(*) se tehdä kursivointi *terve*
+(*) se tehdä kursivointi (*terve*)
